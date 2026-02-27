@@ -25,13 +25,13 @@ Based on the BMI value, the program categorizes the user into:
 
 ## 🚀 Features
 
-✅ Takes height in centimeters
-✅ Takes weight in kilograms
-✅ Converts height into meters automatically
-✅ Calculates BMI accurately
-✅ Displays BMI up to 2 decimal places
-✅ Categorizes health condition
-✅ Handles invalid input (zero or negative values)
+- Takes height in centimeters
+- Takes weight in kilograms
+- Converts height into meters automatically
+- Calculates BMI accurately
+- Displays BMI up to 2 decimal places
+- Categorizes health condition
+- Handles invalid input (zero or negative values)
 
 ---
 
@@ -126,5 +126,6 @@ You are overweight
 Python Developer | AI Enthusiast
 
 ---
+
 
 
